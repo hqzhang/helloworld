@@ -1,7 +1,7 @@
 package helloworld
 
 import "fmt"
-func int() {
+func init() {
    fmt.Println("enter helloword init()")
 
 }
